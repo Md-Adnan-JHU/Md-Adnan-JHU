@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Md-Adnan-JHU
-- 👀 I’m interested in computer science
+- 👋 Hi, I’m @Md-Adnan
+- 👀 I’m interested in computer science and Problem solving
 - 🌱 I’m currently learning spring framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email- adnanjhdelhi@gmail.com  
