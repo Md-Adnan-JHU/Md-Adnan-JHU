@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Md-Adnan
-- 👀 I’m interested in computer science and Problem solving
-- 🌱 I’m currently learning spring framework
-- 💞️ I’m looking to collaborate on any Spring Boot Project
+- 👋 Hi, I’m Mohammad Adnan
+- 👀 I’m interested in Computer Science and Problem solving
+- 🌱 I’m currently learning Server Side Development using Java Spring Boot
+- 💞️ I’m looking to collaborate on any Spring Boot or Java Project
 - 📫 reach me ... Email- adnanjhdelhi@gmail.com  
 
 <!---
