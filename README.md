@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Adnan
-- 👀 I’m interested in Computer Science, Web Development and Problem solving
+- 👀 Java Web Development and Problem solving
 - 🌱 I’m currently learning Server Side Development using Java Spring Boot
 - 💞️ I’m looking to collaborate on any Spring Boot or Java Project
 - 📫 reach me ... Email- adnanjhdelhi@gmail.com  
