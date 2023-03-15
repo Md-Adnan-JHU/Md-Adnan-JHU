@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Adnan
-- 👀 Java Web Development and Problem solving
-- 🌱 I’m currently learning Server Side Development using Java Spring Boot
-- 💞️ I’m looking to collaborate on any Spring Boot or Java Project
+- 👀 Java Developer and Problem Solver
+- 🌱 Currently an intern at Monkhub Innovations
+- 💞️ I’m looking to collaborate on any Java Boot Project
 - 📫 reach me ... Email- adnanjhdelhi@gmail.com  
 
 <!---
