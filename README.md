@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammad Adnan
 - 👀 Java Developer and Problem Solver
-- 🌱 Currently an intern at Monkhub Innovations
 - 💞️ I’m looking to collaborate on any Java Spring 
 Boot Project
 - 📫 reach me ... Email- adnanjhdelhi@gmail.com  
